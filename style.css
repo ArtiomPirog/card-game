@@ -1,0 +1,42 @@
+.container {
+    width: 440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card{
+    width: 100px;
+    height: 150px;
+    margin-bottom: 10px;
+    outline: 1px solid black;
+    background-color: royalblue;
+}
+
+.descr {
+    font-size: 40px;
+    visibility: hidden;
+}
+
+.amount-form {
+    display: inline-block;
+    margin-left: 110px;
+    margin-bottom: 20px;
+}
+
+.btn-replay{
+    margin-left: 140px;
+    margin-bottom: 20px;
+    visibility: hidden;
+}
+
+.timer{
+    margin: 0 0 0 180px;
+    font-size: 40px;
+    visibility: visible;
+}
