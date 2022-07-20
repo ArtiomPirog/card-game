@@ -1,1 +1,3 @@
-# study
+### First JS project
+#
+# Card game
